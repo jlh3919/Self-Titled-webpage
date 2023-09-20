@@ -1,2 +1,2 @@
-# ArRhythmia-webpage
-Main Webpage for team ArRhythmia
+# Self-Titled-webpage
+Main Webpage for team Self-Titled
